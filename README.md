@@ -1,6 +1,6 @@
 # Hi, I'm Hasitha 👋
 
-Software engineer in **London, UK**, building on the web since 2018. I like the space where product meets engineering: turning fuzzy ideas into interfaces that feel fast, obvious and a little delightful.
+Software engineer in **London, UK**, building on the web since 2015. I like the space where product meets engineering: turning fuzzy ideas into interfaces that feel fast, obvious and a little delightful.
 
 🟢 **Open to new opportunities.** Find more about me at **[hasithaweerasinghe.github.io](https://hasithaweerasinghe.github.io)**.
 
